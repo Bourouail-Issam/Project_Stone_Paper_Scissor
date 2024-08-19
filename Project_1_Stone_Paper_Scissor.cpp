@@ -75,8 +75,8 @@ enStatuRouns RoudResult(int UserChoice, int ComputerChoice) {
 	case enChoice::Stone:
 		if (ComputerChoice == enChoice::Paper)
 			return enStatuRouns::ComputerWin;
-		return enStatuRouns::UserWin;
 	}
+	return enStatuRouns::UserWin;
 }
 
 string choiceToString(int YourChoice) {

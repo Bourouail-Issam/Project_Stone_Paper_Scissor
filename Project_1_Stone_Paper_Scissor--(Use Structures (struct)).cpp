@@ -88,9 +88,9 @@ enWinner whoWinnerInRound(stRoundInfo RoundInfo) {
 	case enChoice::Scissors:
 		if (RoundInfo.ChoiceComputer == enChoice::Stone)
 			return enWinner::Computer;
-		//if you reach here then player1 is the winner.
-		return enWinner::Palayer;
 	}
+	//if you reach here then player1 is the winner.
+	return enWinner::Palayer;
 }
 enWinner WhoWonTheGame(int PlyerWin, int ComputerWin, int NumberDraw) {
 	if (PlyerWin > ComputerWin)
