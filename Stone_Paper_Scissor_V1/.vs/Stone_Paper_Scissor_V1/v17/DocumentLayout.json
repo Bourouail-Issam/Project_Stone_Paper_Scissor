@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Stone_Paper_Scissor_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9468A6-1DF7-4158-8B8F-542C323B9A95}|Stone_Paper_Scissor_V1.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Stone_Paper_Scissor_V1\\Stone_Paper_Scissor_V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED9468A6-1DF7-4158-8B8F-542C323B9A95}|Stone_Paper_Scissor_V1.vcxproj|solutionrelative:Stone_Paper_Scissor_V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stone_Paper_Scissor_V1.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Stone_Paper_Scissor_V1\\Stone_Paper_Scissor_V1.cpp",
+              "RelativeDocumentMoniker": "Stone_Paper_Scissor_V1.cpp",
+              "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Stone_Paper_Scissor_V1\\Stone_Paper_Scissor_V1.cpp",
+              "RelativeToolTip": "Stone_Paper_Scissor_V1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T10:06:06.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
